@@ -1,0 +1,8 @@
+
+P
+java:S1643"Use a StringBuilder instead.b 5635e5b90e75588476dff8fe297d1122h
+P
+java:S1643"Use a StringBuilder instead.b 48cd7517d21176f980daa5502d9efb31h
+ç	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.b f37fa9e3636d38fe68cd973b49c6d095h
+^
+java:S1197"*Move the array designators [] to the type.b 22b5567571aa1c24f5d97ddb2eb28bd2h

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.reqres.qa.tests.UserList&apos; to &apos;HttpRequests&apos;&#x0D;&#x0A;- Original project: &apos;RestAssuredAutomation&apos;&#x0D;&#x0A;- Original element: &apos;com.reqres.qa.tests.UserList&apos;&#x0D;&#x0A;- Renamed element: &apos;com.reqres.qa.tests.HttpRequests&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;UserList&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/test\/java=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/&lt;com.reqres.qa.tests{UserList.java[UserList" matchStrategy="1" name="HttpRequests" qualified="false" references="true" similarDeclarations="false" stamp="1708844388236" textual="false" version="1.0"/>
+</session>

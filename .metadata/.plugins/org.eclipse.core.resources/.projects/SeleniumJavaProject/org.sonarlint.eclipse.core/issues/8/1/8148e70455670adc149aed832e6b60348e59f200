@@ -1,0 +1,16 @@
+
+c
+java:S3740"/Provide the parametrized type for this generic.b 4ee29ca12c7d126654bd0e5275de6135h
+c
+java:S3740"/Provide the parametrized type for this generic.b 57a97a39435cfdfed96e03f2a3bc27ceh
+c
+java:S3740*"/Provide the parametrized type for this generic.b 4ee29ca12c7d126654bd0e5275de6135h
+c
+java:S3740*"/Provide the parametrized type for this generic.b 57a97a39435cfdfed96e03f2a3bc27ceh
+ç	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.b a04ba644f3517734da001ed931e7d50fh
+n
+java:S1118":Add a private constructor to hide the implicit public one.b 081dd00c8d3f8ce094cfddf5ccd838ffh
+a
+java:S1128"-Remove this unused import 'java.util.Arrays'.b 54e9e610d6bdce198c93f75733e99130h
+^
+java:S1128"*Remove this unused import 'java.util.Set'.b 216775ad32ddf78ab0fc531a8d5c2f36h

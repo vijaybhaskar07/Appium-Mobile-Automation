@@ -1,0 +1,18 @@
+
+	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.b f37fa9e3636d38fe68cd973b49c6d095h
+k
+java:S1128"0Remove this unused import 'java.util.ArrayList'.8ÿà ¹ã1b 510ef3bd202c030c041eba1094753b66h
+o
+java:S1128"4Remove this unused import 'java.util.LinkedHashSet'.8ÿà ¹ã1b e8643e7003bfafa4ecf97698219796a1h
+i
+java:S1128".Remove this unused import 'java.util.HashSet'.8×«±Åã1b 79a492e0a88e35ca5e686650ffcc383eh
+e
+java:S1128	"*Remove this unused import 'java.util.Set'.8×«±Åã1b 216775ad32ddf78ab0fc531a8d5c2f36h
+i
+java:S1128".Remove this unused import 'java.util.HashMap'.8Úá°Öã1b d84992d255a05fff2c29a54090661da8h
+e
+java:S1128"*Remove this unused import 'java.util.Map'.8Úá°Öã1b 03ec136776d19432e0a31b46ebe07d1ah
+h
+java:S1128"-Remove this unused import 'java.util.Arrays'.8ÛïØã1b 54e9e610d6bdce198c93f75733e99130h
+·
+java:S2681"|This line will not be executed in a loop; only the first line of this 2-line block will be. The rest will execute only once.8§åáã1b 8fda713053b90c3f62faefa259bba632h

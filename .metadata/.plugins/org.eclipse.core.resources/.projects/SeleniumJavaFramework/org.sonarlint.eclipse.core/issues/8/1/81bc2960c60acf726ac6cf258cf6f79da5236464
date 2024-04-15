@@ -1,0 +1,26 @@
+
+ë
+java:S1104"]Make PAGE_LOAD_TIMEOUT a static final constant or non-public and provide accessors if needed.b 23431760d0f3059ba76e51fbedac6961h
+ç
+java:S1104"YMake IMPLICIT_WAIT a static final constant or non-public and provide accessors if needed.b 49b500b819af9daaddd13b3a8bfb59ebh
+ó
+java:S1104"cMake HRM_TESTDATA_SHEET_PATH a static final constant or non-public and provide accessors if needed.b aa65c0fdf389666a54c6e243c1d9bd15h
+k
+java:S1444"7Make this "public static PAGE_LOAD_TIMEOUT" field finalb 23431760d0f3059ba76e51fbedac6961h
+g
+java:S1444"3Make this "public static IMPLICIT_WAIT" field finalb 49b500b819af9daaddd13b3a8bfb59ebh
+q
+java:S1444"=Make this "public static HRM_TESTDATA_SHEET_PATH" field finalb aa65c0fdf389666a54c6e243c1d9bd15h
+ê
+java:S3008"\Rename this field "PAGE_LOAD_TIMEOUT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b 23431760d0f3059ba76e51fbedac6961h
+å
+java:S3008"XRename this field "IMPLICIT_WAIT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b 49b500b819af9daaddd13b3a8bfb59ebh
+ñ
+java:S3008"bRename this field "HRM_TESTDATA_SHEET_PATH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b aa65c0fdf389666a54c6e243c1d9bd15h
+u
+java:S1075"ARefactor your code to get this URI from a customizable parameter.b 0c3626e659024672291254230631b71fh
+o	java:S125"<This block of commented-out lines of code should be removed.b 2d9e7f0da9f7f380eed4547825eab28ah
+Ω
+java:S1130 "àRemove the declaration of thrown exception 'org.openxml4j.exceptions.InvalidFormatException', as it cannot be thrown from method's body.b 50c35e4458ed8195fd856a75d664d4b4h
+r
+java:S1128	">Remove this unused import 'org.apache.poi.sl.usermodel.Sheet'.b 8e56aa9f63b4f853a8942236eb92bb68h

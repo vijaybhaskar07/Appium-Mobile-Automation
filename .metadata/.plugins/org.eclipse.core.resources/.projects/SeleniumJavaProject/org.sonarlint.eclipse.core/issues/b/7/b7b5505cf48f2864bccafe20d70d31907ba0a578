@@ -1,0 +1,10 @@
+
+Ñ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b 6dfaaf3dbc900a52341c619634c2e24ch
+Ñ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b 5ec4709190274f3fa88f285fb4436cdfh
+Ñ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b 40b63dac615ec27b572be5ffd6b60f0eh
+ç	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.b 95e85f5bddd39f8eed2809d3f301a386h
+ç
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.b 18efaa269b4a5b796c15e341d15ab66dh
+o	java:S125"<This block of commented-out lines of code should be removed.b 249f8cb84fc46bdbde543ff5a76b70f3h
+d
+java:S1128"0Remove this unused import 'java.util.ArrayList'.b 510ef3bd202c030c041eba1094753b66h

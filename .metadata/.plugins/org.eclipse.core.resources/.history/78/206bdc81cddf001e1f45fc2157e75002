@@ -1,0 +1,27 @@
+package javaPrograms;
+
+import java.util.Arrays;
+import java.util.HashMap;
+import java.util.Map;
+
+public class JavaProgram {	
+	
+		
+	
+	
+	public static void main(String[] args) {
+		
+		int[] num = {11,3,99,49,9,4};
+		System.out.println("Original Array:");
+		for(int i=0; i<num.length; i++) {
+			
+			System.out.print(num[i]+ "");
+			
+		}
+	
+	
+		}
+		
+}
+
+

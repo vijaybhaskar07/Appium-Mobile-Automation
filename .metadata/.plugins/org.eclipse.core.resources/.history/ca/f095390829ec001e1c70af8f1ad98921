@@ -1,0 +1,41 @@
+package stepDefinitions;
+
+import org.openqa.selenium.WebDriver;
+import org.testng.Assert;
+
+import io.cucumber.java.en.Given;
+import io.cucumber.java.en.When;
+import pages.LoginPage;
+import utilities.TestContextSetup;
+
+public class SauceDemoValidLogin {
+	public WebDriver driver;
+	TestContextSetup testContextSetup;
+	LoginPage loginPage;
+
+	public SauceDemoValidLogin(TestContextSetup testContextSetup) {
+		this.testContextSetup = testContextSetup;
+		this.loginPage = testContextSetup.pageObjectManager.getLoginPage();
+	}
+
+	@Given("^User is on the Login Page$")
+	public void the_user_is_on_SauceDemo_application() throws Throwable {		
+		Assert.assertTrue(loginPage.getLandingPage().contains("Swag Labs"));
+	}
+	
+	 @When("^User clicks the Login button after entering valid username and password$")
+
+	    public void entersValidCredential(DataTable dataTable) throws InterruptedException{	 
+
+	        System.out.println("Credentials Entered");
+	        List<String> LoginForm = dataTable.asList();
+	        String userName = LoginForm.get(0);
+	        String passWord = LoginForm.get(1);
+	        driver.findElement(By.name("Username")).sendKeys(userName);
+	        driver.findElement(By.name("Password")).sendKeys(passWord);
+	        driver.findElement(By.id("LoginBtn")).submit();
+
+	    }
+	
+	
+}

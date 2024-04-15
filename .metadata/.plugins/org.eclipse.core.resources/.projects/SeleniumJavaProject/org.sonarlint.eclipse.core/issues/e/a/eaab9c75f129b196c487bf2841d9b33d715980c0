@@ -1,0 +1,17 @@
+
+ç
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").b d99e931729c7dba9af69460e03d50ab2h
+Ñ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b 8647c824cc337c0245db15728e32ec3dh
+p
+java:S4973"<Strings and Boxed types should be compared using "equals()".b 2063849717d32dd19e534b77cabac517h
+p
+java:S4973"<Strings and Boxed types should be compared using "equals()".b 2063849717d32dd19e534b77cabac517h
+ç	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.b 95e85f5bddd39f8eed2809d3f301a386h
+u
+java:S2259"AA "NullPointerException" could be thrown; "str" is nullable here.b 55334a2508d9b671840099ca4694c36ch
+^
+java:S1197"*Move the array designators [] to the type.b cba1cc858ac21017ee4c40cfe9ce003ah
+o	java:S125"<This block of commented-out lines of code should be removed.b a9f2463a13e31dc7c2c9cead1de83620h
+o	java:S125*"<This block of commented-out lines of code should be removed.b 1114dd9534f45409a1c14dd319e62560h
+^
+java:S1128"*Remove this unused import 'java.util.Set'.b 216775ad32ddf78ab0fc531a8d5c2f36h

@@ -1,0 +1,5 @@
+
+Ä	java:S101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.b b4768b8ffbc4c5f180b33120174c4bf5h
+ç	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.b a04ba644f3517734da001ed931e7d50fh
+o	java:S125"<This block of commented-out lines of code should be removed.b 115749e4c60a6236be1174a5602a31f6h

@@ -1,0 +1,18 @@
+package javaPrograms;
+
+public class CompareTwoIntegers {
+
+	public static void main(String[] args) {
+		
+		int num1 = 1280;
+		int num2 = 1280;
+		
+		if(num1==num2) {
+			System.out.println("Numbers are equal");
+		}
+		else {
+			System.out.println("Numbers not equal");
+		}
+	}
+
+}

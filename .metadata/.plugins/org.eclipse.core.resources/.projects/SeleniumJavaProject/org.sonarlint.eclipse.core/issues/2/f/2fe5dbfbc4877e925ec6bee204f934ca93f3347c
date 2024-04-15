@@ -1,0 +1,10 @@
+
+	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.b a04ba644f3517734da001ed931e7d50fh
+Y
+java:S1128"Remove this duplicated import.8έ±ί΄γ1b 377543685d074ddc07d7541b793f5859h
+v	java:S125"<This block of commented-out lines of code should be removed.8»μμµγ1b c07d30bfe81d5d9467dae1d7286c2145h
+€
+java:S1128
+"ERemove this unused import 'org.openqa.selenium.interactions.Actions'.8»μμµγ1b 40d5b75daf79ba7e33ab7db869c11b5ch
+Y
+java:S1128"Remove this duplicated import.8­“¶γ1b 377543685d074ddc07d7541b793f5859h

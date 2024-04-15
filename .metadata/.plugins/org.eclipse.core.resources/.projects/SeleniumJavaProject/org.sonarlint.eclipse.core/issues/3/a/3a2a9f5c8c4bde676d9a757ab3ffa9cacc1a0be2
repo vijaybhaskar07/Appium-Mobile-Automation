@@ -1,0 +1,4 @@
+
+ç	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.b f37fa9e3636d38fe68cd973b49c6d095h
+è
+java:S3923"[Remove this conditional structure or edit its code blocks so that they're not all the same.b 39c8942e1038872a822c0dc75eedbde3h

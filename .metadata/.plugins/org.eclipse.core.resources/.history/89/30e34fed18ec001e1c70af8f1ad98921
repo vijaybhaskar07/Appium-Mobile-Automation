@@ -1,0 +1,28 @@
+package stepDefinitions;
+
+import org.openqa.selenium.WebDriver;
+import org.testng.Assert;
+
+import io.cucumber.java.en.Given;
+import pages.LoginPage;
+import utilities.TestContextSetup;
+
+public class SauceDemoLogoutSteps {
+	public WebDriver driver;
+	TestContextSetup testContextSetup;
+	LoginPage loginPage;
+
+	public SauceDemoLogoutSteps(TestContextSetup testContextSetup) {
+		this.testContextSetup = testContextSetup;
+		this.loginPage = testContextSetup.pageObjectManager.getLoginPage();
+	}
+
+	@Given("^the user is on Saucedemo application$")
+	public void the_user_is_on_Saucedemo_application() throws Throwable {
+
+		loginPage.DoLogOut("standard_user", "secret_sauce");
+		Assert.assertTrue(loginPage.getLandingPage().contains("Swag Labs"));
+	}
+	
+	
+}

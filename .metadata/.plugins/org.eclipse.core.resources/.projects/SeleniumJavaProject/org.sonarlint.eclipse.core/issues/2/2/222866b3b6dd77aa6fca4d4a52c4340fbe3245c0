@@ -1,0 +1,11 @@
+
+©
+java:S1192"uDefine a constant instead of duplicating this literal "https://the-internet.herokuapp.com/javascript_alerts" 3 times.b de42fd2ade7a89887e014834e8fecd1dh
+Ü
+java:S1192"RDefine a constant instead of duplicating this literal "Alert message is " 3 times.b 6cbc05a64a727ee580960039b69b2effh
+ç	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.b a04ba644f3517734da001ed931e7d50fh
+o	java:S125"<This block of commented-out lines of code should be removed.b c8c5dab59b9c42ebedbb65caeaa39ef9h
+o	java:S125."<This block of commented-out lines of code should be removed.b c8c5dab59b9c42ebedbb65caeaa39ef9h
+o	java:S125C"<This block of commented-out lines of code should be removed.b c8c5dab59b9c42ebedbb65caeaa39ef9h
+j
+java:S1128"6Remove this unused import 'org.openqa.selenium.Alert'.b febc76ca7e31cd70d9bdec6c6b6cb9d1h

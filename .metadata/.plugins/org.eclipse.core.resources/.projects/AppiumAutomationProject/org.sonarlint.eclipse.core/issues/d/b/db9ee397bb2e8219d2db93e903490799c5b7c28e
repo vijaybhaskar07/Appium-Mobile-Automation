@@ -1,0 +1,5 @@
+
+Ä
+java:S3577"ˆRename class "LongPress" to match the regular expression: '^((Test|IT)[a-zA-Z0-9_]+|[A-Z][a-zA-Z0-9_]*(Test|Tests|TestCase|IT|ITCase))$'8ž–¼´å1b 00d900000cd9029ba6de8dc9349da768h
+_
+java:S2925""$Remove this use of "Thread.sleep()".8ž–¼´å1b c9fab33e9458412c527c3fe8a13ee37dh

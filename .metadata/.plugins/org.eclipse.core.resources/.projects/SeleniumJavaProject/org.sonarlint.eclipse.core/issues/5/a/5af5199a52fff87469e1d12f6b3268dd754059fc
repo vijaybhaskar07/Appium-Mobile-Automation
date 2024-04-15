@@ -1,0 +1,14 @@
+
+ç
+java:S2293."YReplace the type specification in this constructor call with the diamond operator ("<>").b a4f5c9920c2235bcf03341de5d2e2d58h
+á
+java:S1192"SDefine a constant instead of duplicating this literal "Parent window ID: " 3 times.b d004cd0981fa1e4b0e9a943bcb66baa1h
+Ä	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.b 68af25c6cffe17eaa8484f4d355b1110h
+ç	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.b a04ba644f3517734da001ed931e7d50fh
+q
+java:S1854/"=Remove this useless assignment to local variable "totalTabs".b 9fb82ce748d15a26aa8bea6911a8d600h
+o	java:S125"<This block of commented-out lines of code should be removed.b 1da46e8354a4bb3963e7adf25dacf57ch
+o	java:S125"<This block of commented-out lines of code should be removed.b 2a63c4c27d29a1ac5cdeead4aebd65ebh
+o	java:S125+"<This block of commented-out lines of code should be removed.b 9d66c8cd093ae12dc80434274e85c4bdh
+b
+java:S1481/".Remove this unused "totalTabs" local variable.b d13f59d8d041126388dd46b14cf8d613h
